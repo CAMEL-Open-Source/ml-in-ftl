@@ -38,3 +38,6 @@ void PageLevelFTL::read(Request *cmd) {
 ```
 여기에, 읽기를 수행할 때 추론을 수행하는 예시 코드가 있습니다.
 학습 지연시간은 TrainingLatency를, 추론 지연시간은 ModelLatency를 수정하여 조절할 수 있습니다.
+
+### Acknowledgement
+This project is supported by IITP 2021-0-00524.
